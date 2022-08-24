@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  password: mysql123
+kind: Secret
+metadata:
+  creationTimestamp: "2022-08-24T10:39:31Z"
+  name: mysql-root-pass
+  namespace: assignment
+  resourceVersion: "5711"
+  uid: c9073217-235f-4ed9-ba14-f24c297ef7f5
+type: Opaque

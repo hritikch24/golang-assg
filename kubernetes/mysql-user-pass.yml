@@ -1,0 +1,12 @@
+apiVersion: v1
+data:
+  password: QnJ1Q1N0bk1UNQ==
+  username: a29kZWtsb3VkX3Jpbg==
+kind: Secret
+metadata:
+  creationTimestamp: "2022-08-24T10:40:24Z"
+  name: mysql-user-pass
+  namespace: assignment
+  resourceVersion: "5781"
+  uid: cd4c4d15-8b5b-4619-92f1-9f3b93908d26
+type: Opaque
